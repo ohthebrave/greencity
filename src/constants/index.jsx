@@ -1,4 +1,4 @@
-import { BotMessageSquare } from "lucide-react";
+import { Handshake } from "lucide-react";
 import { BatteryCharging } from "lucide-react";
 import { Fingerprint } from "lucide-react";
 import { ShieldHalf } from "lucide-react";
@@ -59,22 +59,22 @@ export const testimonials = [
 
 export const features = [
   {
-    icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    icon: <Handshake />,
+    text: "Empower the youth",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Involving the youth in agricultural value chain practices to help achieve sustainability in agro ecology in low socioeconomic regions in Kenya.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Impact of Information",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Educating and disseminating information to the youths involved in agribusiness on available technologies and best practices that contribute to smart agriculture and ensuring food security/Environmental sustainability.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Research",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Conducting research that generates knowledge for influencing sound policies and actions.",
   },
   {
     icon: <BatteryCharging />,
