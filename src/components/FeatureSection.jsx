@@ -2,12 +2,12 @@ import { features } from "../constants";
 
 const FeatureSection = () => {
   return (
-    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]">
+    <div className="relative mt-20 border-b border-neutral-800 min-h-[800px]" id="features">
       <div className="text-center">
         <h2 className="text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20 tracking-wide">
         Unlocking the{' '}
-          <span className="bg-gradient-to-r from-green-500 to-blue-300 text-transparent bg-clip-text">
-          Reservoir of Agricultural Prosperity
+          <span className="bg-gradient-to-r from-green-500 to-yellow-200 text-transparent bg-clip-text">
+          Reservoir of Urban Planning Prosperity
           </span>
         </h2>
       </div>
@@ -27,6 +27,9 @@ const FeatureSection = () => {
             </div>
           </div>
         ))}
+      </div>
+      <div className="mb-10 md:text-2xl italic font-extralight">
+        <p >"Spectrum Agronet was successful in gaining a place in the 2020 cohort agribiz acceleration incubation program in Kenya to promote sustainable and decent jobs for women and youth in agricultural value chains supported by the Kenya climate innovations centre (KCIC) through the Danish Embassy (Danida) and the European union(EU)".</p>
       </div>
     </div>
   );

@@ -13,7 +13,7 @@ import user5 from "../assets/profile-pictures/user5.jpg";
 import user6 from "../assets/profile-pictures/user6.jpg";
 
 export const navItems = [
-  { label: "Features", href: "#" },
+  { label: "Features", href: "#features" },
   { label: "Workflow", href: "#" },
   { label: "Testimonials", href: "#" },
 ];
@@ -23,7 +23,7 @@ export const testimonials = [
     user: "John Doe",
     company: "Stellar Solutions",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "The resources have been a tremendous help in making my lifestyle more eco-friendly. Plus, the campaigns are a fantastic way to get involved. Keep up the excellent work!",
   },
   {
     user: "Jane Smith",
@@ -74,55 +74,50 @@ export const features = [
     icon: <ShieldHalf />,
     text: "Research",
     description:
-      "Conducting research that generates knowledge for influencing sound policies and actions.",
+      "For agriculture to flourish there is a need for continuous agricultural innovation. Therefore research is a key pillar to improve productivity and ensure food security.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Analyzing the power of corporate lock-ins",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Technological change cannot be considered without taking corporate power into account because corporate actors have a strong influence on how we produce food, and what technologies get developed.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Collaboration",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Recognizing the potential synergy between the public and private realms, Kenya has the opportunity to transcend traditional boundaries and forge collaborations that lead to groundbreaking solutions.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Climate Change",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "In the tempest of global climate change, agriculture stands as a vulnerable ship navigating uncharted waters. Kenya, acutely aware of the threat posed by climate change to its agricultural sector, acknowledges the imperative for strategic investments in adaptation and mitigation.",
   },
 ];
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Transforming the built environment in Kenya through innovative consultancy services.",
   },
   {
-    title: "Review code without worry",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Our expertise spans urban planning, project management, research and Innovation, environmental planning/conservation, and building code/zoning guidelines.",
   },
   {
-    title: "AI Assistance to reduce time",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "We collaborate with local government agencies, private developers, and community organizations to design sustainable, resilient, and inclusive spaces.",
   },
   {
-    title: "Share work in minutes",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Our commitment to excellence ensures that every project adheres to the highest standards of quality and compliance, fostering growth and sustainability in Kenya's urban and rural landscapes. Partner with us to shape the future of our cities and communities.",
   },
 ];
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Urban Design",
     features: [
       "Private board sharing",
       "5 Gb Storage",
@@ -131,8 +126,7 @@ export const pricingOptions = [
     ],
   },
   {
-    title: "Pro",
-    price: "$10",
+    title: "Development applications ",
     features: [
       "Private board sharing",
       "10 Gb Storage",
@@ -141,8 +135,34 @@ export const pricingOptions = [
     ],
   },
   {
-    title: "Enterprise",
-    price: "$200",
+    title: "Master planning",
+    features: [
+      "Private board sharing",
+      "Unlimited Storage",
+      "High Performance Network",
+      "Private Mode",
+    ],
+  },
+  {
+    title: "Environmental planning and Research",
+    features: [
+      "Private board sharing",
+      "Unlimited Storage",
+      "High Performance Network",
+      "Private Mode",
+    ],
+  },
+  {
+    title: "Environmental Impact Assessment (EIA)",
+    features: [
+      "Private board sharing",
+      "Unlimited Storage",
+      "High Performance Network",
+      "Private Mode",
+    ],
+  },
+  {
+    title: "Agro ecology and sustainable food systems",
     features: [
       "Private board sharing",
       "Unlimited Storage",

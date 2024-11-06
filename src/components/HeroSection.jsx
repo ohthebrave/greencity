@@ -9,13 +9,13 @@ const HeroSection = () => {
 
         <span className="bg-gradient-to-r from-green-800 to-yellow-200 text-transparent bg-clip-text">
           {" "}
-          Youth Agripreneurship in Kenya
+          Urban Planning & Built Environment
         </span>
       </h1>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
-      Spectrum Agronet was registered in 21 May 2021 Incorporated under the Companies Act, 2015 as a private limited start-up company that was committed to sustainably transforming the Kenyan agricultural and Environmental sustainability sector and empowering the youths with entrepreneurial skills through the adoption of the most innovative and technological-driven channels.
+      Spectrum Urban Solutions was registered on 21 May 2021 and incorporated under the Companies Act, 2015 as a private limited start-up company committed to sustainably transforming the Kenyan urban planning, urban design, and built environment sectors. We empower the next generation of urban professionals with entrepreneurial skills through the adoption of the most innovative and sustainable practices.
       </p>
-      <div className=" justify-center my-10">
+      {/* <div className=" justify-center my-10">
         <a
           href="#"
           className="hover:bg-green-700 bg-green-200 py-3 px-4 mx-3 rounded-md"
@@ -23,7 +23,7 @@ const HeroSection = () => {
           Learn more
         </a>
 
-      </div>
+      </div> */}
       <div className="flex mt-10 justify-center">
         <video
           autoPlay
