@@ -1,10 +1,9 @@
 import { CheckCircle2 } from "lucide-react";
-import codeImg from "../assets/agr-pic.jpeg";
 import { checklistItems } from "../constants";
 
 const Workflow = () => {
   return (
-    <div className="mt-20">
+    <div className="mt-20" id="workflow">
       <h2 className="text-3xl sm:text-5xl lg:text-4xl text-center mt-6 tracking-wide pb-3">
       Ab
         <span className="bg-gradient-to-r from-green-800 to-green-600 text-transparent bg-clip-text">
