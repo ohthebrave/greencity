@@ -119,55 +119,53 @@ export const pricingOptions = [
   {
     title: "Urban Design",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "Master Plans",
+      "Design of Buildings",
+      "Design and User experience",
+      "Public spaces and Landscapes",
     ],
   },
   {
     title: "Development applications ",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
+      "Changes in Land Use",
+      "Sub-divisions",
       "Web Analytics (Advance)",
-      "Private Mode",
     ],
   },
   {
     title: "Master planning",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
+      "Land Use Planning",
+      "Transportation & Connectivity",
+      "Infrastructure Planning",
+      "Green spaces",
+    ],
+  },
+  {
+    title: "GIS Mapping",
+    features: [
+      "Spatial Analysis",
+      "Remote Sensing",
+      "Data Collection Methods",
       "Private Mode",
     ],
   },
   {
-    title: "Environmental planning and Research",
+    title: "EIA",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Based on quantitative and qualitative data collection",
+      "Employs scientific methods for impact prediction",
+      "Urban Ecology",
     ],
   },
   {
-    title: "Environmental Impact Assessment (EIA)",
+    title: "Built Environment",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
-    ],
-  },
-  {
-    title: "Agro ecology and sustainable food systems",
-    features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Land Use and Zoning Assessment",
+      "Infrastructure and Utilities Impacts",
+      "Property Values and Displacement",
+      "Building and Architectural Impacts",
     ],
   },
 ];

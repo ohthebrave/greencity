@@ -29,9 +29,9 @@ const HeroSection = () => {
           autoPlay
           loop
           muted
-          className="rounded-lg w-1/2 border border-green-700 shadow-sm shadow-yellow-400 mx-2 my-4"
+          className="rounded-lg w-1/2 border border-green-700 shadow-sm shadow-yellow-400 mx-2 my-4 max-h-96"
         >
-          <source src={video1} type="video/mp4" />
+          <source src="https://videos.pexels.com/video-files/29264242/12624305_360_640_30fps.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <video
