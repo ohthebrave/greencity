@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className="flex justify-evenly items-center">
           <div className="flex items-center flex-shrink-0">
             <img className="h-20 w-24 mr-2" src={logo} alt="Logo" />
-            <h1 className="text-xl tracking-tight"><span className="text-green-600">Spectrum</span> Agronet</h1>
+            <h1 className="text-xl tracking-tight"><span className="text-green-600">Spectrum</span> Urban Solutions</h1>
           </div>
           <ul className="hidden lg:flex ml-14 space-x-12">
             {navItems.map((item, index) => (

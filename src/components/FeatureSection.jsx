@@ -29,7 +29,7 @@ const FeatureSection = () => {
         ))}
       </div>
       <div className="mb-10 md:text-2xl italic font-extralight">
-        <p >"Spectrum Agronet was successful in gaining a place in the 2020 cohort agribiz acceleration incubation program in Kenya to promote sustainable and decent jobs for women and youth in agricultural value chains supported by the Kenya climate innovations centre (KCIC) through the Danish Embassy (Danida) and the European union(EU)".</p>
+        <p >"Spectrum Urban Solutions was successful in gaining a place in the 2020 cohort Urban Development Acceleration & Incubation Program in Kenya to promote sustainable and decent jobs for women and youth in urban development value chains, supported by the Kenya Climate Innovation Centre (KCIC) through the Danish Embassy (Danida) and the European Union (EU)".</p>
       </div>
     </div>
   );

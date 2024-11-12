@@ -62,25 +62,25 @@ export const features = [
     icon: <Handshake />,
     text: "Empower the youth",
     description:
-      "Involving the youth in agricultural value chain practices to help achieve sustainability in agro ecology in low socioeconomic regions in Kenya.",
+      "Engaging youth in sustainable urban development practices to help achieve livable cities in low socioeconomic regions in Kenya.",
   },
   {
     icon: <Fingerprint />,
     text: "Impact of Information",
     description:
-      "Educating and disseminating information to the youths involved in agribusiness on available technologies and best practices that contribute to smart agriculture and ensuring food security/Environmental sustainability.",
+      "Educating and disseminating information to youths involved in urban development on available technologies and best practices that contribute to smart cities and ensuring sustainable built environments/environmental sustainability.",
   },
   {
     icon: <ShieldHalf />,
     text: "Research",
     description:
-      "For agriculture to flourish there is a need for continuous agricultural innovation. Therefore research is a key pillar to improve productivity and ensure food security.",
+      "For sustainable urban development to flourish, there is a need for continuous innovation in planning and design. Therefore, research is a key pillar to improve livability and ensure sustainable built environments.",
   },
   {
     icon: <BatteryCharging />,
     text: "Analyzing the power of corporate lock-ins",
     description:
-      "Technological change cannot be considered without taking corporate power into account because corporate actors have a strong influence on how we produce food, and what technologies get developed.",
+      "Technological change cannot be considered without taking corporate power into account because corporate actors have a strong influence on how we develop cities, and what technologies get implemented in the built environment.",
   },
   {
     icon: <PlugZap />,
@@ -92,7 +92,7 @@ export const features = [
     icon: <GlobeLock />,
     text: "Climate Change",
     description:
-      "In the tempest of global climate change, agriculture stands as a vulnerable ship navigating uncharted waters. Kenya, acutely aware of the threat posed by climate change to its agricultural sector, acknowledges the imperative for strategic investments in adaptation and mitigation.",
+      "In the tempest of global climate change, cities stand as vulnerable entities navigating uncharted waters. Kenya, acutely aware of the threat posed by climate change to its urban areas, acknowledges the imperative for strategic investments in adaptation and mitigation.",
   },
 ];
 
