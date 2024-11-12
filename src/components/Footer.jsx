@@ -17,7 +17,7 @@ const Footer = () => {
                     <ul className="mb-4">
                         <li>+254 705 271 570</li>
                         <p className='m-2 hover:underline font-bold'>Email</p>
-                        <li>stanley.ochola@Spectrum.co.ke</li>
+                        <li>groupspectrum2017@gmail.com</li>
                     </ul>
                     </ul>
                 </div>
